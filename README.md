@@ -1,7 +1,7 @@
 ## Overview of the analysis:
 After discovering his passion for surfing, W.Avy decides to open a surf shop in the beautiful island of Oahu. But before investing, he wants to ensure he is well informed of all the climate changes in the island to secure a successful business. He realizes that temperature changes can either make or break his business, therefore he wants to be well prepared for all that is to come. Knowing the temperature year round will help him sustain his busniess.
 
-##Results
+## Results
 After comparing temperatures in June and December, we learn that 
 - Both months had similarities and that during both months weather can be extremeky unpredictable. 
 - Looking at June dataframe table below, we see a max temperature of 85 degrees and a min tempreaure of 64 degrees. Both temperatures make a grand difference in the productivity of the shop. It can be expected to have great business when the weather reaches 85. However, not the same can be expected if the weather drops to 64 degrees. Therefore, in June, W.Amy can expect to have fluctuating business success. 
